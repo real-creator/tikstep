@@ -1,0 +1,122 @@
+{
+  "blog": {
+    "blogger_id": "4646048885272545794",
+    "api_key": "AIzaSyBVn7ciQvHj3Yvk1LnfU7Q5oQQJsgchcRQ,AIzaSyCkZmIivVMyElNq1_pQMR-d4444hq7laKo"
+  },
+  "app": {
+    "status": true,
+    "more_apps_url": "https://play.google.com/store/apps/developer?id=Sofiwall",
+    "redirect_url": "",
+    "privacy_policy_url": "https://sites.google.com/view/privacy-policy",
+    "show_wallpaper_name": true,
+    "center_crop_wallpaper": true,
+    "custom_label_list": false
+  },
+  "ads": {
+    "ad_status": false,
+    "main_ads":  "ironsource" , "applovin_discovery" ,
+    "backup_ads": "unity",
+    "admob_banner_id": "0",
+    "admob_interstitial_id": "0",
+    "admob_rewarded_id": "0",
+    "admob_native_id": "0",
+    "admob_app_open_id": "0",
+
+    "ad_manager_banner_id": "0",
+    "ad_manager_interstitial_id": "0",
+    "ad_manager_rewarded_id": "0",
+    "ad_manager_native_id": "0",
+    "ad_manager_app_open_id": "0",
+
+    "fan_banner_id": "0",
+    "fan_interstitial_id": "0",
+    "fan_rewarded_id": "0",
+    "fan_native_id": "0",
+
+    "startapp_app_id": "0" ,
+
+    "unity_game_id": "5408792",
+    "unity_banner_id": "Banner_Android",
+    "unity_interstitial_id": "Interstitial_Android",
+    "unity_rewarded_id": "Rewarded_Android",
+
+    "applovin_max_banner_id": "f90b67b44313a88c",
+    "applovin_max_interstitial_id": "fb6763452fb273a0",
+    "applovin_max_rewarded_id": "7d48645d348b1a68",
+    "applovin_max_native_manual_id": "94f94bcb1533b0da",
+    "applovin_max_app_open_id": "90efa1789eec9f51",
+
+    "applovin_discovery_banner_zone_id": "734393713cc4e0d1",
+    "applovin_discovery_banner_mrec_zone_id": "0",
+    "applovin_discovery_interstitial_zone_id": "890856d05ac238e0",
+    "applovin_discovery_rewarded_zone_id": "0b16d6fb64d60e4f",
+
+    "ironsource_app_key": "1b8cad3dd",
+    "ironsource_banner_id": "DefaultBanner",
+    "ironsource_interstitial_id": "DefaultInterstitial",
+    "ironsource_rewarded_id": "DefaultRewardedVideo",
+
+    "wortise_app_id": "0",
+    "wortise_banner_id": "0",
+    "wortise_interstitial_id": "0",
+    "wortise_rewarded_id": "0",
+    "wortise_native_id": "0",
+    "wortise_app_open_id": "0",
+
+    "interstitial_ad_interval": 3,
+    "native_ad_index_2": 4,
+    "native_ad_index_3": 6,
+    "native_ad_style_wallpaper_list": "large",
+    "native_ad_style_exit_dialog": "medium",
+    "placement": {
+      "banner_home": true,
+      "banner_wallpaper_details": true,
+      "banner_category_details": true,
+      "banner_search": true,
+      "interstitial_wallpaper_list": true,
+      "rewarded_wallpaper_details": true,
+      "native_ad_wallpaper_list": true,
+      "native_ad_exit_dialog": true,
+      "app_open_ad_on_start": true,
+      "app_open_ad_on_resume": true
+    }
+  },
+  "labels": [
+    {
+      "term": "Pusheen",
+      "image": "https://i.ibb.co/kcsWQWL/cat-motorola.jpg"
+    },
+    {
+      "term": "Pink",
+      "image": "https://i.ibb.co/T0ZVwjy/cat-oppo.jpg"
+    },
+    {
+      "term": "Summer",
+      "image": "https://i.ibb.co/RcpbHmb/cat-samsung.jpg"
+    },
+    {
+      "term": "Winter",
+      "image": "https://i.ibb.co/prG2X8Z/cat-android.jpg"
+    },
+    {
+      "term": "Spring",
+      "image": "https://i.ibb.co/qkKMSZ0/cat-google.jpg"
+    },
+    {
+      "term": "Christmas",
+      "image": "https://i.ibb.co/6tDKBKV/cat-realme.jpg"
+    },
+    {
+      "term": "Thanksgiving",
+      "image": "https://i.ibb.co/Mhj3sZP/cat-nokia.jpg"
+    },
+    {
+      "term": "Halloween",
+      "image": "https://i.ibb.co/JrHkds9/cat-vivo.jpg"
+    },
+    {
+      "term": "Live ",
+      "image": "https://i.ibb.co/7YRDywZ/cat-live-wallpaper.jpg"
+    }
+  ]
+}
