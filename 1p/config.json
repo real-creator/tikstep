@@ -10,10 +10,10 @@
     "privacy_policy_url": "https://sites.google.com/view/privacy-policy",
     "show_wallpaper_name": true,
     "center_crop_wallpaper": true,
-    "custom_label_list": false
+    "custom_label_list": true
   },
   "ads": {
-    "ad_status": false,
+    "ad_status": true,
     "main_ads":  "ironsource" , "applovin_discovery" ,
     "backup_ads": "unity",
     "admob_banner_id": "0",
