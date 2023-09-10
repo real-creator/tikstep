@@ -15,7 +15,7 @@
   "ads": {
     "ad_status": true,
     "main_ads":  "startapp , ironsource",
-    "backup_ads": "unity",
+    "backup_ads": "startapp",
     "admob_banner_id": "0",
     "admob_interstitial_id": "0",
     "admob_rewarded_id": "0",
