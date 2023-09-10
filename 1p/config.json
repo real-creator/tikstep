@@ -14,7 +14,7 @@
   },
   "ads": {
     "ad_status": true,
-    "main_ads":  "ironsource",
+    "main_ads":  "ironsource, startapp",
     "backup_ads": "unity",
     "admob_banner_id": "0",
     "admob_interstitial_id": "0",
@@ -33,7 +33,7 @@
     "fan_rewarded_id": "0",
     "fan_native_id": "0",
 
-    "startapp_app_id": "0" ,
+    "startapp_app_id": "208564281" ,
 
     "unity_game_id": "5408792",
     "unity_banner_id": "Banner_Android",
