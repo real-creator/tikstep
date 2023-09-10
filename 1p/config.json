@@ -14,7 +14,7 @@
   },
   "ads": {
     "ad_status": true,
-    "switch_ads": "admob""startapp",
+    "switch_ads": "admob,startapp",
     "backup_ads": "applovin_discovery",
     "admob_banner_id": "0",
     "admob_interstitial_id": "0",
