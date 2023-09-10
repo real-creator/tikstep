@@ -15,7 +15,7 @@
   "ads": {
     "ad_status": true,
     "main_ads": "applovin_discovery""startapp",
-    "switch_ads": "startapp",
+    "switch_ads": "admob",
     "backup_ads": "applovin_discovery",
     "admob_banner_id": "0",
     "admob_interstitial_id": "0",
