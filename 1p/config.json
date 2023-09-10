@@ -14,7 +14,7 @@
   },
   "ads": {
     "ad_status": true,
-    "main_ads": "startapp" "applovin_max" "applovin_discovery",
+    "main_ads": "startapp,applovin_max,applovin_discovery",
     "backup_ads": "admob",
     
      "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
